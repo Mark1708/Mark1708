@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Mark
 
 #### I am second year Programming and Neurotechnology student and Java developer
-![I am second year Programming and Neurotechnology student and Java developer](https://github.com/Mark1708/Mark1708/blob/main/assets/header.png?raw=true)
+![I am second year Programming and Neurotechnology student and Java developer](https://github.com/Mark1708/Mark1708/blob/master/assets/header.png?raw=true)
 
 ### 😉 About me
 I am a second-year computer-science student at ITMO University, Junior Java Developer, and I love to do something new.
