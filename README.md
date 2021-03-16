@@ -25,4 +25,7 @@ I am a second-year computer-science student at ITMO University, Junior Java Deve
 
 <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&layout=compact)
+
+
 ![Profile views](https://gpvc.arturio.dev/Mark1708)  
