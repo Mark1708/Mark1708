@@ -17,7 +17,7 @@ I am a second-year computer-science student at ITMO University, Junior Java Deve
 - 🔭 I’m currently dont't working
 - 🌱 I’m currently learning Java, Kotlin, Python 
 - 👯 I’m looking to collaborate on Open source projects 
-- 📫 How to reach me: [VK](https://vk.com/mgurianov), [Telegram](https://t.me/MarkStav), m.gurianov@mail.ru
+- 📫 How to reach me: [VK](https://vk.com/mgurianov), [Telegram](https://t.me/MarkStav), mark1708.work@gmail.com
 
 <br/>
 
