@@ -5,6 +5,7 @@
 
 ### 😉 About me
 I am a second-year computer-science student at ITMO University, Junior Java Developer, and I love to do something new.
+[Resume](https://drive.google.com/file/d/1I-nTtUhQhDP9QHcxoygHTSMqOzU4DeE9/view?usp=sharing)
 
 ---
 
