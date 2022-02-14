@@ -11,12 +11,12 @@ I am a third year computer-science student at ITMO University, Junior Java Devel
 
 ### 💪🏻  Skills
 
-![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=Java) ![Spring](https://img.shields.io/badge/-Spring-0a0a0a?style=for-the-badge&logo=Spring) ![Spark](https://img.shields.io/badge/-Apache&Spark-0a0a0a?style=for-the-badge&logo=Apache&Spark) ![Selenium](https://img.shields.io/badge/-Selenium-0a0a0a?style=for-the-badge&logo=Selenium) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-0a0a0a?style=for-the-badge&logo=MySQL) ![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0a?style=for-the-badge&logo=MongoDB) ![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=Docker)
+![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=Java) ![Spring](https://img.shields.io/badge/-Spring-0a0a0a?style=for-the-badge&logo=Spring) ![Spark](https://img.shields.io/badge/-Apache&Spark-0a0a0a?style=for-the-badge&logo=Apache&Spark) ![Selenium](https://img.shields.io/badge/-Selenium-0a0a0a?style=for-the-badge&logo=Selenium) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-0a0a0a?style=for-the-badge&logo=MySQL) ![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0a?style=for-the-badge&logo=MongoDB) ![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=Docker) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0a0a0a?style=for-the-badge&logo=rabbitmq) ![Kafka](https://img.shields.io/badge/-Kafka-0a0a0a?style=for-the-badge&logo=apachekafka)
 
 ---
 ### 📄  Additional Information
 - 🔭 I’m currently dont't working
-- 🌱 I’m currently learning Java, Kotlin, Python 
+- 🌱 I’m currently learning Java, Kotlin, Python, Dart
 - 👯 I’m looking to collaborate on Open source projects 
 - 📫 How to reach me: [VK](https://vk.com/mgurianov), [Telegram](https://t.me/MarkStav), mark1708.work@gmail.com
 
