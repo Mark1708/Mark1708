@@ -11,8 +11,23 @@ I am a third year computer-science student at ITMO University, Junior Java Devel
 
 ### 💪🏻  Skills
 
-![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=Java) ![Spring](https://img.shields.io/badge/-Spring-0a0a0a?style=for-the-badge&logo=Spring) ![Spark](https://img.shields.io/badge/-Apache&Spark-0a0a0a?style=for-the-badge&logo=Apache&Spark) ![Selenium](https://img.shields.io/badge/-Selenium-0a0a0a?style=for-the-badge&logo=Selenium) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-0a0a0a?style=for-the-badge&logo=MySQL) ![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0a?style=for-the-badge&logo=MongoDB) ![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=Docker) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0a0a0a?style=for-the-badge&logo=rabbitmq) ![Kafka](https://img.shields.io/badge/-Kafka-0a0a0a?style=for-the-badge&logo=apachekafka)
+![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=Java) 
+![Spring](https://img.shields.io/badge/-Spring-0a0a0a?style=for-the-badge&logo=Spring) 
+![Spark](https://img.shields.io/badge/-Apache&Spark-0a0a0a?style=for-the-badge&logo=Apache&Spark) 
+![Selenium](https://img.shields.io/badge/-Selenium-0a0a0a?style=for-the-badge&logo=Selenium) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql) 
+![MySQL](https://img.shields.io/badge/-MySQL-0a0a0a?style=for-the-badge&logo=MySQL) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0a?style=for-the-badge&logo=MongoDB) 
+![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=Docker) 
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0a0a0a?style=for-the-badge&logo=rabbitmq) 
+![Kafka](https://img.shields.io/badge/-Kafka-0a0a0a?style=for-the-badge&logo=apachekafka)
+<br/>
 
+![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=Python)
+![Pandas](https://img.shields.io/badge/-pandas-0a0a0a?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/-numpy-0a0a0a?style=for-the-badge&logo=numpy)
+![OpenCV](https://img.shields.io/badge/-opencv-0a0a0a?style=for-the-badge&logo=opencv)
+![scikit-learn](https://img.shields.io/badge/-scikitlearn-0a0a0a?style=for-the-badge&logo=scikitlearn)
 ---
 ### 📄  Additional Information
 - 🔭 I’m currently dont't working
@@ -26,7 +41,7 @@ I am a third year computer-science student at ITMO University, Junior Java Devel
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&layout=compact&theme=chartreuse-dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&layout=compact&theme=chartreuse-dark&show_icons=true&hide=jupyter%20notebook,scss,html,dockerfile)
 
 
 ![Profile views](https://gpvc.arturio.dev/Mark1708)  
