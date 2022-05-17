@@ -41,7 +41,7 @@ I am a third year computer-science student at ITMO University, Junior Java Devel
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&layout=compact&theme=chartreuse-dark&show_icons=true&hide=jupyter%20notebook,scss,html,dockerfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&layout=compact&theme=chartreuse-dark&show_icons=true&hide=jupyter%20notebook,css,stylus,scss,html,dockerfile)
 
 
 ![Profile views](https://gpvc.arturio.dev/Mark1708)  
