@@ -21,6 +21,8 @@ I am a third year computer-science student at ITMO University, Junior Java Devel
 ![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=Docker) 
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0a0a0a?style=for-the-badge&logo=rabbitmq) 
 ![Kafka](https://img.shields.io/badge/-Kafka-0a0a0a?style=for-the-badge&logo=apachekafka)
+![GitHub Actions](https://img.shields.io/badge/-githubactions-0a0a0a?style=for-the-badge&logo=githubactions) 
+![Jenkins](https://img.shields.io/badge/-jenkins-0a0a0a?style=for-the-badge&logo=jenkins) 
 <br/>
 
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=Python)
@@ -41,7 +43,7 @@ I am a third year computer-science student at ITMO University, Junior Java Devel
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&layout=compact&theme=chartreuse-dark&show_icons=true&hide=jupyter%20notebook,css,stylus,scss,html,dockerfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&layout=compact&theme=chartreuse-dark&show_icons=true&hide=jupyter%20notebook,css,stylus,scss,html)
 
 
 ![Profile views](https://gpvc.arturio.dev/Mark1708)  
