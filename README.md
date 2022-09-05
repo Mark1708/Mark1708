@@ -5,8 +5,9 @@
 
 ### 😉 About me
 Let me tell you about myself! I am an ordinary person with an extraordinary desire to improve myself)
+
+
 You know what's weird? I don't want to stop😂
-[Resume](https://drive.google.com/file/d/1I-nTtUhQhDP9QHcxoygHTSMqOzU4DeE9/view?usp=sharing)
 
 ---
 
