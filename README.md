@@ -54,6 +54,7 @@ You know what's weird? I don't want to stop😂
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&layout=compact&theme=chartreuse-dark&show_icons=true&hide=jupyter%20notebook,css,stylus,scss,html)
-
-
+<br/><br/>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark1708&include_all_commits=true&theme=chartreuse-dark)
+<br/><br/>
 ![Profile views](https://gpvc.arturio.dev/Mark1708)  
