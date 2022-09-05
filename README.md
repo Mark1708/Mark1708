@@ -21,10 +21,18 @@ You know what's weird? I don't want to stop😂
 ![MySQL](https://img.shields.io/badge/-MySQL-0a0a0a?style=for-the-badge&logo=MySQL) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0a?style=for-the-badge&logo=MongoDB) 
 ![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=Docker) 
+<br/>
+
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0a0a0a?style=for-the-badge&logo=rabbitmq) 
 ![Kafka](https://img.shields.io/badge/-Kafka-0a0a0a?style=for-the-badge&logo=apachekafka)
+<br/>
+
 ![GitHub Actions](https://img.shields.io/badge/-githubactions-0a0a0a?style=for-the-badge&logo=githubactions) 
 ![Jenkins](https://img.shields.io/badge/-jenkins-0a0a0a?style=for-the-badge&logo=jenkins) 
+<br/>
+
+![VueJS](https://img.shields.io/badge/-vued.js-0a0a0a?style=for-the-badge&logo=vuedotjs) 
+![Flutter](https://img.shields.io/badge/-flutter-0a0a0a?style=for-the-badge&logo=flutter) 
 <br/>
 
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=Python)
