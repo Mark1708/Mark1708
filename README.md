@@ -1,10 +1,11 @@
 ### Hi there 👋, my name is Mark
 
-#### I am third year Programming and Neurotechnology student and Java developer
+#### I am fourth year Programming and Neurotechnology student and Java developer
 [![I am second year Programming and Neurotechnology student and Java developer](https://github.com/Mark1708/Mark1708/blob/master/assets/header.png?raw=true)](https://www.linkedin.com/in/https://www.linkedin.com/in/mark-gurianov-605616201/)
 
 ### 😉 About me
-I am a third year computer-science student at ITMO University, Junior Java Developer (but the knowledge of Middle Developer😉), and I love to do something new.
+Let me tell you about myself! I am an ordinary person with an extraordinary desire to improve myself)
+You know what's weird? I don't want to stop😂
 [Resume](https://drive.google.com/file/d/1I-nTtUhQhDP9QHcxoygHTSMqOzU4DeE9/view?usp=sharing)
 
 ---
