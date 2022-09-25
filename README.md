@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mark
 
-#### I am fourth year Programming and Neurotechnology student and Java developer
+#### I am fourth year Programming and Neurotechnology student and Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
 [![I am second year Programming and Neurotechnology student and Java developer](https://github.com/Mark1708/Mark1708/blob/master/assets/header.png?raw=true)](https://www.linkedin.com/in/https://www.linkedin.com/in/mark-gurianov-605616201/)
 
 ### 😉 About me
@@ -52,9 +52,13 @@ You know what's weird? I don't want to stop😂
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mark1708)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mark1708/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mark1708.github.io/)  
 
 <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&layout=compact&theme=chartreuse-dark&show_icons=true&hide=jupyter%20notebook,css,stylus,scss,html)
-<br/><br/>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark1708&include_all_commits=true&theme=chartreuse-dark)
-<br/><br/>
-![Profile views](https://gpvc.arturio.dev/Mark1708)  
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mark1708&show_icons=true&theme=chartreuse-dark">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&hide=jupyter%20notebook,css,stylus,scss,html,Dockerfile&langs_count=9&show&theme=chartreuse-dark&layout=compact">
+    </td> 
+  </tr>
+</table>
