@@ -13,7 +13,7 @@ You know what's weird? I don't want to stop😂
 
 ### 💪🏻  Skills
 
-![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=Java) 
+![Java](https://img.shields.io/badge/-OpenJDK-0a0a0a?style=for-the-badge&logo=OpenJDK) 
 ![Spring](https://img.shields.io/badge/-Spring-0a0a0a?style=for-the-badge&logo=Spring) 
 ![Spark](https://img.shields.io/badge/-Apache&Spark-0a0a0a?style=for-the-badge&logo=Apache&Spark) 
 ![Selenium](https://img.shields.io/badge/-Selenium-0a0a0a?style=for-the-badge&logo=Selenium) 
@@ -31,8 +31,14 @@ You know what's weird? I don't want to stop😂
 ![Jenkins](https://img.shields.io/badge/-jenkins-0a0a0a?style=for-the-badge&logo=jenkins) 
 <br/>
 
+![Quasar](https://img.shields.io/badge/-quasar-0a0a0a?style=for-the-badge&logo=quasar) 
 ![VueJS](https://img.shields.io/badge/-vue.js-0a0a0a?style=for-the-badge&logo=vuedotjs) 
 ![Flutter](https://img.shields.io/badge/-flutter-0a0a0a?style=for-the-badge&logo=flutter) 
+<br/>
+
+![Typescript](https://img.shields.io/badge/-typescript-0a0a0a?style=for-the-badge&logo=typescript)
+![Javacript](https://img.shields.io/badge/-javascript-0a0a0a?style=for-the-badge&logo=javascript)
+![NodeJs](https://img.shields.io/badge/-node.js-0a0a0a?style=for-the-badge&logo=nodedotjs) 
 <br/>
 
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=Python)
