@@ -13,13 +13,10 @@ You know what's weird? I don't want to stop😂
 
 ### 💪🏻  Skills
 
-![Java](https://img.shields.io/badge/-OpenJDK-0a0a0a?style=for-the-badge&logo=OpenJDK) 
+![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=OpenJDK) 
 ![Spring](https://img.shields.io/badge/-Spring-0a0a0a?style=for-the-badge&logo=Spring) 
 ![Spark](https://img.shields.io/badge/-Apache&Spark-0a0a0a?style=for-the-badge&logo=Apache&Spark) 
 ![Selenium](https://img.shields.io/badge/-Selenium-0a0a0a?style=for-the-badge&logo=Selenium) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql) 
-![MySQL](https://img.shields.io/badge/-MySQL-0a0a0a?style=for-the-badge&logo=MySQL) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0a?style=for-the-badge&logo=MongoDB) 
 ![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=Docker) 
 <br/>
 
@@ -34,6 +31,11 @@ You know what's weird? I don't want to stop😂
 ![Quasar](https://img.shields.io/badge/-quasar-0a0a0a?style=for-the-badge&logo=quasar) 
 ![VueJS](https://img.shields.io/badge/-vue.js-0a0a0a?style=for-the-badge&logo=vuedotjs) 
 ![Flutter](https://img.shields.io/badge/-flutter-0a0a0a?style=for-the-badge&logo=flutter) 
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql) 
+![MySQL](https://img.shields.io/badge/-MySQL-0a0a0a?style=for-the-badge&logo=MySQL) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0a?style=for-the-badge&logo=MongoDB) 
 <br/>
 
 ![Typescript](https://img.shields.io/badge/-typescript-0a0a0a?style=for-the-badge&logo=typescript)
