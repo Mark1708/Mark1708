@@ -49,7 +49,7 @@ You know what's weird? I don't want to stop😂
 ---
 ### 📄  Additional Information
 - 🔭 I’m currently dont't working
-- 🌱 I’m currently learning Java, Kotlin, Python, Dart
+- 🌱 I’m currently learning Java, Typescript, Python, Dart
 - 👯 I’m looking to collaborate on Open source projects 
 - 📫 How to reach me: [VK](https://vk.com/mgurianov), [Telegram](https://t.me/MarkStav), mark1708.work@gmail.com
 
