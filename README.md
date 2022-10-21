@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0FFF3B&width=435&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Mark)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0AAE28&width=435&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Mark)](https://git.io/typing-svg)
 
 #### I am fourth year Programming and Neurotechnology student and Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
 [![I am second year Programming and Neurotechnology student and Java developer](https://github.com/Mark1708/Mark1708/blob/master/assets/header.png?raw=true)](https://www.linkedin.com/in/https://www.linkedin.com/in/mark-gurianov-605616201/)
