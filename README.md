@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0AAE28&width=435&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Mark)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8FFF3B&background=14141400&vCenter=true&width=435&height=30&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Mark)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 
 #### I am fourth year Programming and Neurotechnology student and Java developer 
 [![I am second year Programming and Neurotechnology student and Java developer](https://github.com/Mark1708/Mark1708/blob/master/assets/header.png?raw=true)](https://www.linkedin.com/in/https://www.linkedin.com/in/mark-gurianov-605616201/)
@@ -60,12 +60,12 @@ You know what's weird? I don't want to stop😂
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mark1708)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mark1708/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mark1708.github.io/)  
 
 <br/>
-<table style="border:none;">
-  <tr style="border:none;">
-    <td style="border:none;">
+<table style="border:0px solid white;">
+  <tr style="border:0px solid white;">
+    <td style="border:0px solid white;">
       <img src="https://github-readme-stats.vercel.app/api?username=Mark1708&show_icons=true&theme=chartreuse-dark">
     </td>
-    <td style="border:none;">
+    <td style="border:0px solid white;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&hide=jupyter%20notebook,css,stylus,scss,html,Dockerfile&langs_count=9&show&theme=chartreuse-dark&layout=compact">
     </td> 
   </tr>
