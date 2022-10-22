@@ -60,12 +60,12 @@ You know what's weird? I don't want to stop😂
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mark1708)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mark1708/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mark1708.github.io/)  
 
 <br/>
-<table border="0">
-  <tr>
-    <td>
+<table style="border:none;">
+  <tr style="border:none;">
+    <td style="border:none;">
       <img src="https://github-readme-stats.vercel.app/api?username=Mark1708&show_icons=true&theme=chartreuse-dark">
     </td>
-    <td>
+    <td style="border:none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&hide=jupyter%20notebook,css,stylus,scss,html,Dockerfile&langs_count=9&show&theme=chartreuse-dark&layout=compact">
     </td> 
   </tr>
