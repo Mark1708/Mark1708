@@ -78,7 +78,7 @@ You know what's weird? I don't want to stop😂
       <img src="https://github-readme-stats.vercel.app/api?username=Mark1708&show_icons=true&theme=chartreuse-dark">
     </td>
     <td style="border:0px solid white;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&hide=jupyter%20notebook,css,stylus,scss,html,Dockerfile&langs_count=10&show&theme=chartreuse-dark&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&hide=jupyter%20notebook,css,stylus,scss,html,Dockerfile,FreeMarker,Vim%20Script,Shell,Makefile&langs_count=10&show&theme=chartreuse-dark&layout=compact">
     </td> 
   </tr>
 </table>
