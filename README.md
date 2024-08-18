@@ -14,6 +14,7 @@ You know what's weird? I don't want to stop😂
 ### 💪🏻  Skills
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=OpenJDK) 
+![Kotlin](https://img.shields.io/badge/-Kotlin-0a0a0a?style=for-the-badge&logo=Kotlin) 
 ![Go](https://img.shields.io/badge/-Go-0a0a0a?style=for-the-badge&logo=Go) 
 <br/>
 
@@ -63,7 +64,7 @@ You know what's weird? I don't want to stop😂
 ---
 ### 📄  Additional Information
 - 🔭 I’m currently working
-- 🌱 I’m currently learning Java, Go
+- 🌱 I’m currently learning Java, Kotlin, Go
 - 👯 I’m looking to collaborate on Open source projects 
 - 📫 How to reach me: [VK](https://vk.com/mgurianov), [Telegram](https://t.me/MarkStav), mark1708.work@gmail.com
 
@@ -78,7 +79,7 @@ You know what's weird? I don't want to stop😂
       <img src="https://github-readme-stats.vercel.app/api?username=Mark1708&show_icons=true&theme=chartreuse-dark">
     </td>
     <td style="border:0px solid white;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&hide=jupyter%20notebook,css,stylus,scss,html,Dockerfile,FreeMarker,Vim%20Script,Shell,Makefile&langs_count=10&show&theme=chartreuse-dark&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&hide=jupyter%20notebook,css,stylus,scss,html,Dockerfile,FreeMarker,Vim%20Script,Shell,Makefile,TeX&langs_count=12&show&theme=chartreuse-dark&layout=compact">
     </td> 
   </tr>
 </table>
