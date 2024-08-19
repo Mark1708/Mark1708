@@ -41,20 +41,25 @@ You know what's weird? I don't want to stop😂
 ![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=Docker) 
 ![GitHub Actions](https://img.shields.io/badge/-githubactions-0a0a0a?style=for-the-badge&logo=githubactions) 
 ![Jenkins](https://img.shields.io/badge/-jenkins-0a0a0a?style=for-the-badge&logo=jenkins) 
+![Gitlab](https://img.shields.io/badge/-gitlab-0a0a0a?style=for-the-badge&logo=gitlab) 
+![Kubernetes](https://img.shields.io/badge/-kubernetes-0a0a0a?style=for-the-badge&logo=kubernetes) 
 <br/>
 
 #### Frontend or Mobile dev
+![React](https://img.shields.io/badge/-React-0a0a0a?style=for-the-badge&logo=React) 
 ![Quasar](https://img.shields.io/badge/-quasar-0a0a0a?style=for-the-badge&logo=quasar) 
 ![VueJS](https://img.shields.io/badge/-vue.js-0a0a0a?style=for-the-badge&logo=vuedotjs) 
 ![Typescript](https://img.shields.io/badge/-typescript-0a0a0a?style=for-the-badge&logo=typescript)
 ![Javacript](https://img.shields.io/badge/-javascript-0a0a0a?style=for-the-badge&logo=javascript)
 ![NodeJs](https://img.shields.io/badge/-node.js-0a0a0a?style=for-the-badge&logo=nodedotjs) 
+<br/>
 ![Flutter](https://img.shields.io/badge/-flutter-0a0a0a?style=for-the-badge&logo=flutter) 
 ![Dart](https://img.shields.io/badge/-Dart-0a0a0a?style=for-the-badge&logo=Dart) 
 <br/>
 
 #### Python Stack
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=Python)
+![fastapi](https://img.shields.io/badge/-fastapi-0a0a0a?style=for-the-badge&logo=fastapi)
 ![Pandas](https://img.shields.io/badge/-pandas-0a0a0a?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-numpy-0a0a0a?style=for-the-badge&logo=numpy)
 ![OpenCV](https://img.shields.io/badge/-opencv-0a0a0a?style=for-the-badge&logo=opencv)
