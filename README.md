@@ -10,7 +10,7 @@
 
 Backend developer with **5+ years** of commercial experience. Designed and built high-load services, led full development cycles, managed teams of up to 10 engineers. Primary stack: **Java & Spring Boot** ecosystem. Growing toward **Solution Architect**.
 
-Currently working as **Team Lead** in digital transformation projects within the federal public sector. Based in **Saint Petersburg, Russia**.
+Currently working as **Team Lead** in digital transformation projects within the federal public sector. Based in **Stavropol, Russia**.
 
 ---
 
