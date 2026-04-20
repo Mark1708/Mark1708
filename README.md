@@ -16,19 +16,33 @@ Currently working as **Team Lead** in digital transformation projects within the
 
 **Core Languages**
 
-[![Core](https://skillicons.dev/icons?i=java,kotlin,go,ts,py&theme=dark)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/-Java-111827?style=for-the-badge&logo=openjdk&logoColor=5b5ef4)
+![Kotlin](https://img.shields.io/badge/-Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=5b5ef4)
+![Go](https://img.shields.io/badge/-Go-111827?style=for-the-badge&logo=go&logoColor=5b5ef4)
+![TypeScript](https://img.shields.io/badge/-TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=5b5ef4)
+![Python](https://img.shields.io/badge/-Python-111827?style=for-the-badge&logo=python&logoColor=5b5ef4)
 
 **Frameworks**
 
-[![Frameworks](https://skillicons.dev/icons?i=spring,kafka,rabbitmq&theme=dark)](https://skillicons.dev)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=5b5ef4)
+![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-111827?style=for-the-badge&logo=spring&logoColor=5b5ef4)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-111827?style=for-the-badge&logo=spring&logoColor=5b5ef4)
 ![Micronaut](https://img.shields.io/badge/-Micronaut-111827?style=for-the-badge&logo=micronaut&logoColor=5b5ef4)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-111827?style=for-the-badge&logo=apachespark&logoColor=5b5ef4)
 
 **Databases**
 
-[![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb,elasticsearch&theme=dark)](https://skillicons.dev)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=5b5ef4)
+![Redis](https://img.shields.io/badge/-Redis-111827?style=for-the-badge&logo=redis&logoColor=5b5ef4)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-111827?style=for-the-badge&logo=clickhouse&logoColor=5b5ef4)
+![MongoDB](https://img.shields.io/badge/-MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=5b5ef4)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-111827?style=for-the-badge&logo=elasticsearch&logoColor=5b5ef4)
 ![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-111827?style=for-the-badge&logo=timescale&logoColor=5b5ef4)
+
+**Messaging**
+
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=5b5ef4)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-111827?style=for-the-badge&logo=rabbitmq&logoColor=5b5ef4)
 
 **Security**
 
@@ -38,7 +52,12 @@ Currently working as **Team Lead** in digital transformation projects within the
 
 **DevOps & Infra**
 
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,gitlab,github,ansible,prometheus,grafana&theme=dark)](https://skillicons.dev)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=5b5ef4)
+![Docker](https://img.shields.io/badge/-Docker-111827?style=for-the-badge&logo=docker&logoColor=5b5ef4)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-111827?style=for-the-badge&logo=gitlab&logoColor=5b5ef4)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=5b5ef4)
+![Ansible](https://img.shields.io/badge/-Ansible-111827?style=for-the-badge&logo=ansible&logoColor=5b5ef4)
+![Prometheus + Grafana](https://img.shields.io/badge/-Prometheus%20%2B%20Grafana-111827?style=for-the-badge&logo=prometheus&logoColor=5b5ef4)
 
 ---
 
