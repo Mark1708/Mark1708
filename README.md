@@ -2,8 +2,8 @@
 
 ## Mark Gurianov
 
-[![Portfolio](https://img.shields.io/badge/-mark1708.github.io-5b5ef4?style=for-the-badge&logo=safari&logoColor=white)](https://mark1708.github.io)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-5b5ef4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark1708/)
+[![Resume](https://img.shields.io/badge/Resume-5b5ef4?style=for-the-badge&logo=googledocs&logoColor=white&label=)](https://mark1708.github.io/resume/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5b5ef4?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/mark1708/)
 [![Telegram](https://img.shields.io/badge/-Telegram-5b5ef4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MarkStav)
 
 ---
@@ -27,7 +27,8 @@ Currently working as **Team Lead** in digital transformation projects within the
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=5b5ef4)
 ![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-111827?style=for-the-badge&logo=spring&logoColor=5b5ef4)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-111827?style=for-the-badge&logo=spring&logoColor=5b5ef4)
-![Micronaut](https://img.shields.io/badge/-Micronaut-111827?style=for-the-badge&logo=micronaut&logoColor=5b5ef4)
+![Micronaut](https://img.shields.io/badge/-Micronaut-111827?style=for-the-badge&logoColor=5b5ef4)
+![Quarkus](https://img.shields.io/badge/-Quarkus-111827?style=for-the-badge&logo=quarkus&logoColor=5b5ef4)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-111827?style=for-the-badge&logo=apachespark&logoColor=5b5ef4)
 
 **Databases**
@@ -36,8 +37,8 @@ Currently working as **Team Lead** in digital transformation projects within the
 ![Redis](https://img.shields.io/badge/-Redis-111827?style=for-the-badge&logo=redis&logoColor=5b5ef4)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-111827?style=for-the-badge&logo=clickhouse&logoColor=5b5ef4)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=5b5ef4)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-111827?style=for-the-badge&logo=elasticsearch&logoColor=5b5ef4)
-![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-111827?style=for-the-badge&logo=timescale&logoColor=5b5ef4)
+![Elasticsearch / OpenSearch](https://img.shields.io/badge/-Elasticsearch%20%2F%20OpenSearch-111827?style=for-the-badge&logo=elasticsearch&logoColor=5b5ef4)
+![Timescale](https://img.shields.io/badge/-Timescale-111827?style=for-the-badge&logo=timescale&logoColor=5b5ef4)
 
 **Messaging**
 
@@ -57,6 +58,7 @@ Currently working as **Team Lead** in digital transformation projects within the
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-111827?style=for-the-badge&logo=gitlab&logoColor=5b5ef4)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=5b5ef4)
 ![Ansible](https://img.shields.io/badge/-Ansible-111827?style=for-the-badge&logo=ansible&logoColor=5b5ef4)
+![Jenkins](https://img.shields.io/badge/-Jenkins-111827?style=for-the-badge&logo=jenkins&logoColor=5b5ef4)
 ![Prometheus + Grafana](https://img.shields.io/badge/-Prometheus%20%2B%20Grafana-111827?style=for-the-badge&logo=prometheus&logoColor=5b5ef4)
 
 ---
