@@ -1,90 +1,82 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8FFF3B&background=14141400&vCenter=true&width=435&height=30&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Mark)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=5B5EF4&background=00000000&vCenter=true&width=680&height=30&lines=Team+Lead+%26+Backend+Engineer;Java+%7C+Spring+Boot+%7C+Distributed+Systems;%E2%86%92+Solution+Architect)](https://mark1708.github.io)
 
-#### I am a first year student of the Master's program Software for Highly Loaded Systems and Software developer 
-[![secret](https://github.com/Mark1708/Mark1708/blob/master/assets/header.png?raw=true)](https://www.linkedin.com/in/mark-gurianov-605616201/)
+## Mark Gurianov
 
-### 😉 About me
-Let me tell you about myself! I am an ordinary person with an extraordinary desire to improve myself)
-
-
-You know what's weird? I don't want to stop😂
+[![Portfolio](https://img.shields.io/badge/-mark1708.github.io-5b5ef4?style=for-the-badge&logo=safari&logoColor=white)](https://mark1708.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-5b5ef4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark1708/)
+[![Telegram](https://img.shields.io/badge/-Telegram-5b5ef4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MarkStav)
 
 ---
 
-### 💪🏻  Skills
-#### Languages
-![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=OpenJDK) 
-![Kotlin](https://img.shields.io/badge/-Kotlin-0a0a0a?style=for-the-badge&logo=Kotlin) 
-![Go](https://img.shields.io/badge/-Go-0a0a0a?style=for-the-badge&logo=Go) 
-<br/>
+Backend developer with **5+ years** of commercial experience. Designed and built high-load services, led full development cycles, managed teams of up to 10 engineers. Primary stack: **Java & Spring Boot** ecosystem. Growing toward **Solution Architect**.
 
-#### Frameworks
-![Spring](https://img.shields.io/badge/-Spring-0a0a0a?style=for-the-badge&logo=Spring) 
-![Apache Spark](https://img.shields.io/badge/-Apache&Spark-0a0a0a?style=for-the-badge&logo=Apache&Spark) 
-<br/>
+Currently working as **Team Lead** in digital transformation projects within the federal public sector. Based in **Saint Petersburg, Russia**.
 
-#### Message Brokers
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0a0a0a?style=for-the-badge&logo=rabbitmq) 
-![Kafka](https://img.shields.io/badge/-Kafka-0a0a0a?style=for-the-badge&logo=apachekafka)
-<br/>
-
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql) 
-![MySQL](https://img.shields.io/badge/-MySQL-0a0a0a?style=for-the-badge&logo=MySQL) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0a?style=for-the-badge&logo=MongoDB) 
-![Redis](https://img.shields.io/badge/-Redis-0a0a0a?style=for-the-badge&logo=redis) 
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-0a0a0a?style=for-the-badge&logo=Elasticsearch) 
-![Clickhouse](https://img.shields.io/badge/-Clickhouse-0a0a0a?style=for-the-badge&logo=Clickhouse) 
-<br/>
-
-#### DevOps
-![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=Docker) 
-![GitHub Actions](https://img.shields.io/badge/-githubactions-0a0a0a?style=for-the-badge&logo=githubactions) 
-![Jenkins](https://img.shields.io/badge/-jenkins-0a0a0a?style=for-the-badge&logo=jenkins) 
-![Gitlab](https://img.shields.io/badge/-gitlab-0a0a0a?style=for-the-badge&logo=gitlab) 
-![Kubernetes](https://img.shields.io/badge/-kubernetes-0a0a0a?style=for-the-badge&logo=kubernetes) 
-<br/>
-
-#### Frontend or Mobile dev
-![React](https://img.shields.io/badge/-React-0a0a0a?style=for-the-badge&logo=React) 
-![Quasar](https://img.shields.io/badge/-quasar-0a0a0a?style=for-the-badge&logo=quasar) 
-![VueJS](https://img.shields.io/badge/-vue.js-0a0a0a?style=for-the-badge&logo=vuedotjs) 
-![Typescript](https://img.shields.io/badge/-typescript-0a0a0a?style=for-the-badge&logo=typescript)
-![Javacript](https://img.shields.io/badge/-javascript-0a0a0a?style=for-the-badge&logo=javascript)
-![NodeJs](https://img.shields.io/badge/-node.js-0a0a0a?style=for-the-badge&logo=nodedotjs) 
-<br/>
-![Flutter](https://img.shields.io/badge/-flutter-0a0a0a?style=for-the-badge&logo=flutter) 
-![Dart](https://img.shields.io/badge/-Dart-0a0a0a?style=for-the-badge&logo=Dart) 
-<br/>
-
-#### Python Stack
-![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=Python)
-![fastapi](https://img.shields.io/badge/-fastapi-0a0a0a?style=for-the-badge&logo=fastapi)
-![Pandas](https://img.shields.io/badge/-pandas-0a0a0a?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/-numpy-0a0a0a?style=for-the-badge&logo=numpy)
-![OpenCV](https://img.shields.io/badge/-opencv-0a0a0a?style=for-the-badge&logo=opencv)
-![scikit-learn](https://img.shields.io/badge/-scikitlearn-0a0a0a?style=for-the-badge&logo=scikitlearn)
-<br/>
-<br/>
 ---
-### 📄  Additional Information
-- 🔭 I’m currently working
-- 🌱 I’m currently learning Java, Kotlin, Go
-- 👯 I’m looking to collaborate on Open source projects 
-- 📫 How to reach me: [VK](https://vk.com/mgurianov), [Telegram](https://t.me/MarkStav), mark1708.work@gmail.com
 
-<br/>
+**Core Languages**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mark1708)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mark1708/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mark1708.github.io/)  
+![Java](https://img.shields.io/badge/-Java-111827?style=flat-square&logo=openjdk&logoColor=5b5ef4)
+![Kotlin](https://img.shields.io/badge/-Kotlin-111827?style=flat-square&logo=kotlin&logoColor=5b5ef4)
+![Go](https://img.shields.io/badge/-Go-111827?style=flat-square&logo=go&logoColor=5b5ef4)
+![TypeScript](https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=5b5ef4)
+![Python](https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=5b5ef4)
 
-<br/>
-<table style="border:0px solid white;">
-  <tr style="border:0px solid white;">
-    <td style="border:0px solid white;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mark1708&show_icons=true&theme=chartreuse-dark">
+**Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=5b5ef4)
+![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-111827?style=flat-square&logo=spring&logoColor=5b5ef4)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-111827?style=flat-square&logo=spring&logoColor=5b5ef4)
+![Micronaut](https://img.shields.io/badge/-Micronaut-111827?style=flat-square&logo=micronaut&logoColor=5b5ef4)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-111827?style=flat-square&logo=apachespark&logoColor=5b5ef4)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=5b5ef4)
+![Redis](https://img.shields.io/badge/-Redis-111827?style=flat-square&logo=redis&logoColor=5b5ef4)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-111827?style=flat-square&logo=clickhouse&logoColor=5b5ef4)
+![MongoDB](https://img.shields.io/badge/-MongoDB-111827?style=flat-square&logo=mongodb&logoColor=5b5ef4)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-111827?style=flat-square&logo=elasticsearch&logoColor=5b5ef4)
+![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-111827?style=flat-square&logo=timescale&logoColor=5b5ef4)
+
+**Messaging**
+
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-111827?style=flat-square&logo=apachekafka&logoColor=5b5ef4)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-111827?style=flat-square&logo=rabbitmq&logoColor=5b5ef4)
+
+**Security**
+
+![Keycloak](https://img.shields.io/badge/-Keycloak-111827?style=flat-square&logo=keycloak&logoColor=5b5ef4)
+![OAuth2 / OIDC](https://img.shields.io/badge/-OAuth2%20%2F%20OIDC-111827?style=flat-square&logo=openid&logoColor=5b5ef4)
+![JWT](https://img.shields.io/badge/-JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=5b5ef4)
+
+**DevOps & Infra**
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=5b5ef4)
+![Docker](https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=5b5ef4)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-111827?style=flat-square&logo=gitlab&logoColor=5b5ef4)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=5b5ef4)
+![Ansible](https://img.shields.io/badge/-Ansible-111827?style=flat-square&logo=ansible&logoColor=5b5ef4)
+![Prometheus](https://img.shields.io/badge/-Prometheus%20%2B%20Grafana-111827?style=flat-square&logo=prometheus&logoColor=5b5ef4)
+
+---
+
+**Pet Projects**
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**convertr**](https://github.com/Mark1708/convertr) | Universal CLI file format converter (50+ formats) | Go · Cobra · GoReleaser |
+| [**tmh**](https://github.com/Mark1708/tmh) | Terminal UI for markdown template management | Go · Bubble Tea |
+
+---
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mark1708&show_icons=true&bg_color=0d0d14&border_color=2a2a3e&title_color=5b5ef4&text_color=e8e8f0&icon_color=5b5ef4" />
     </td>
-    <td style="border:0px solid white;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&hide=jupyter%20notebook,css,stylus,scss,html,Dockerfile,FreeMarker,Vim%20Script,Shell,Makefile,TeX&langs_count=12&show&theme=chartreuse-dark&layout=compact">
-    </td> 
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&bg_color=0d0d14&border_color=2a2a3e&title_color=5b5ef4&text_color=e8e8f0&layout=compact&hide=jupyter%20notebook,css,stylus,scss,html,Dockerfile,FreeMarker,Vim%20Script,Shell,Makefile,TeX&langs_count=10" />
+    </td>
   </tr>
 </table>
