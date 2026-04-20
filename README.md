@@ -16,48 +16,29 @@ Currently working as **Team Lead** in digital transformation projects within the
 
 **Core Languages**
 
-![Java](https://img.shields.io/badge/-Java-111827?style=flat-square&logo=openjdk&logoColor=5b5ef4)
-![Kotlin](https://img.shields.io/badge/-Kotlin-111827?style=flat-square&logo=kotlin&logoColor=5b5ef4)
-![Go](https://img.shields.io/badge/-Go-111827?style=flat-square&logo=go&logoColor=5b5ef4)
-![TypeScript](https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=5b5ef4)
-![Python](https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=5b5ef4)
+[![Core](https://skillicons.dev/icons?i=java,kotlin,go,ts,py&theme=dark)](https://skillicons.dev)
 
 **Frameworks**
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=5b5ef4)
-![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-111827?style=flat-square&logo=spring&logoColor=5b5ef4)
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-111827?style=flat-square&logo=spring&logoColor=5b5ef4)
-![Micronaut](https://img.shields.io/badge/-Micronaut-111827?style=flat-square&logo=micronaut&logoColor=5b5ef4)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-111827?style=flat-square&logo=apachespark&logoColor=5b5ef4)
+[![Frameworks](https://skillicons.dev/icons?i=spring,kafka,rabbitmq&theme=dark)](https://skillicons.dev)
+![Micronaut](https://img.shields.io/badge/-Micronaut-111827?style=for-the-badge&logo=micronaut&logoColor=5b5ef4)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-111827?style=for-the-badge&logo=apachespark&logoColor=5b5ef4)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=5b5ef4)
-![Redis](https://img.shields.io/badge/-Redis-111827?style=flat-square&logo=redis&logoColor=5b5ef4)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-111827?style=flat-square&logo=clickhouse&logoColor=5b5ef4)
-![MongoDB](https://img.shields.io/badge/-MongoDB-111827?style=flat-square&logo=mongodb&logoColor=5b5ef4)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-111827?style=flat-square&logo=elasticsearch&logoColor=5b5ef4)
-![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-111827?style=flat-square&logo=timescale&logoColor=5b5ef4)
-
-**Messaging**
-
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-111827?style=flat-square&logo=apachekafka&logoColor=5b5ef4)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-111827?style=flat-square&logo=rabbitmq&logoColor=5b5ef4)
+[![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb,elasticsearch&theme=dark)](https://skillicons.dev)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-111827?style=for-the-badge&logo=clickhouse&logoColor=5b5ef4)
+![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-111827?style=for-the-badge&logo=timescale&logoColor=5b5ef4)
 
 **Security**
 
-![Keycloak](https://img.shields.io/badge/-Keycloak-111827?style=flat-square&logo=keycloak&logoColor=5b5ef4)
-![OAuth2 / OIDC](https://img.shields.io/badge/-OAuth2%20%2F%20OIDC-111827?style=flat-square&logo=openid&logoColor=5b5ef4)
-![JWT](https://img.shields.io/badge/-JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=5b5ef4)
+![Keycloak](https://img.shields.io/badge/-Keycloak-111827?style=for-the-badge&logo=keycloak&logoColor=5b5ef4)
+![OAuth2 / OIDC](https://img.shields.io/badge/-OAuth2%20%2F%20OIDC-111827?style=for-the-badge&logo=openid&logoColor=5b5ef4)
+![JWT](https://img.shields.io/badge/-JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=5b5ef4)
 
 **DevOps & Infra**
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=5b5ef4)
-![Docker](https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=5b5ef4)
-![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-111827?style=flat-square&logo=gitlab&logoColor=5b5ef4)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=5b5ef4)
-![Ansible](https://img.shields.io/badge/-Ansible-111827?style=flat-square&logo=ansible&logoColor=5b5ef4)
-![Prometheus](https://img.shields.io/badge/-Prometheus%20%2B%20Grafana-111827?style=flat-square&logo=prometheus&logoColor=5b5ef4)
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,gitlab,github,ansible,prometheus,grafana&theme=dark)](https://skillicons.dev)
 
 ---
 
