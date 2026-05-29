@@ -2,7 +2,7 @@
 
 ## Mark Gurianov
 
-[![Resume](https://img.shields.io/badge/Resume-5b5ef4?style=for-the-badge&logo=googledocs&logoColor=white&label=)](https://mark1708.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-5b5ef4?style=for-the-badge&logo=googledocs&logoColor=white&label=)](https://mark1708.ru/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5b5ef4?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/mark1708/)
 [![Telegram](https://img.shields.io/badge/-Telegram-5b5ef4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MarkStav)
 
