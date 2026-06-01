@@ -71,6 +71,7 @@ Currently working as **Team Lead** in digital transformation projects within the
 | [**tmh**](https://github.com/Mark1708/tmh) | Declarative tmux session manager in YAML with TUI dashboard and fuzzy picker | Go |
 | [**opencode-agents-sidebar**](https://github.com/Mark1708/opencode-agents-sidebar) | OpenCode TUI sidebar plugin for agent management | TypeScript |
 | [**opencode-usage-monitor**](https://github.com/Mark1708/opencode-usage-monitor) | OpenCode TUI sidebar plugin for API quota monitoring | TypeScript |
+| [**confx**](https://github.com/Mark1708/confx) | Chrome extension for extracting Confluence pages and Jira issues to Markdown | TypeScript |
 | [**pastebin-app**](https://github.com/Mark1708/pastebin-app) | Full-stack Pastebin demo with Spring Boot 3, React, Keycloak, Docker Compose | Java |
 | [**spring-yoomoney-db-queue**](https://github.com/Mark1708/spring-yoomoney-db-queue) | PostgreSQL-backed queue performance benchmark for Spring Boot services | Java |
 | [**beautify-old-photo**](https://github.com/Mark1708/beautify-old-photo) | Old photo restoration using GFPGAN and DeOldify | Python |
