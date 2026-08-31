@@ -85,10 +85,10 @@ Currently working as **Team Lead** in digital transformation projects within the
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mark1708&show_icons=true&bg_color=0d0d14&border_color=2a2a3e&title_color=5b5ef4&text_color=e8e8f0&icon_color=5b5ef4" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mark1708&theme=github_dark" alt="GitHub profile statistics" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1708&bg_color=0d0d14&border_color=2a2a3e&title_color=5b5ef4&text_color=e8e8f0&layout=compact&hide=jupyter%20notebook,css,stylus,scss,html,Dockerfile,FreeMarker,Vim%20Script,Shell,Makefile,TeX&langs_count=10" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mark1708&theme=github_dark" alt="Repositories per language" />
     </td>
   </tr>
 </table>
